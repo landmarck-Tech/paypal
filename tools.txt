@@ -1,0 +1,6 @@
+SDLC
+aws
+linux
+scripting
+git
+ec2
