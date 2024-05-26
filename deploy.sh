@@ -1,3 +1,3 @@
-the application is about to be deployed
-make sure this application is review
+This application is about to be deployed
+make sure this application is reviewed
 by our managers before distribution
